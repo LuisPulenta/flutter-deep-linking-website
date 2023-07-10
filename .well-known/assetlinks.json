@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.luisnu.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["77:1A:D2:C8:AC:DB:06:2A:A5:2D:D2:9A:F2:FD:77:D2:8D:D3:AF:CA:31:34:C4:B8:A9:80:A6:C4:6D:D8:0B:8F"]
+    }
+  }]
+  
